@@ -1,0 +1,6 @@
+@cb_agent_HostAddress = http://localhost:5062
+
+GET {{cb_agent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
